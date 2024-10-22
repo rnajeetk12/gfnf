@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/sahil/sahil.py",
+    "postStartCommand": "python3 /workspaces/gfnf/sahil.py",
     "customizations": {
         "vscode": {
             "settings": {
